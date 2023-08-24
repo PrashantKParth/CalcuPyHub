@@ -16,7 +16,7 @@ This calculator program is designed to perform various mathematical operations, 
 
 1. Clone the repository: git clone https://github.com/prashantkparth/CalcuPyHub.git
 2. Navigate to the repository directory: cd CalcuPyHub
-3. Run the calculator script: CalcuPyHub.py
+3. Run the calculator script: [CalcuPyHub.py](https://github.com/prashantkparth/CalcuPyHub/blob/main/CalcuPyHub.py)
 4. Follow the on-screen prompts to perform calculations based on your choice.
 
 ## How It Works
